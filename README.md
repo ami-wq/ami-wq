@@ -2,7 +2,7 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1571766665/6754/anime.gif?1571766665" width="30" /> I'm young developer 👋🏻 
 
-I’m currently learning C++ independently ✨ I also study a bit of web development in my spare time 👀 I dream of learning english language
+I’m currently learning C++ independently ✨ I also study a bit of web development in my spare time 👀
 
 <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30" /> I'm studying in specialty "software engineering" 
 
