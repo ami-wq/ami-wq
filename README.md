@@ -6,14 +6,6 @@ I’m currently learning C++ independently ✨ I also study a bit of web develop
 
 <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30" /> I'm studying in specialty "software engineering" 
 
-<h4>What I use 👩🏼‍💻</h4>
-
-<h4>My tools 👩🏼‍💻</h4> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ami-wq&layout=compact&)](https://github.com//github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/ami-wq)
-
 <h2 align="center">Have a nice day!✌🏻 </h2>
 
 <div align="center">
