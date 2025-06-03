@@ -3,7 +3,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1571766665/6754/anime.gif?1571766665" width="30" /> Exploring the world of tech one line of code at a time 🖥️
 
 <p>🎨 Passionate Frontend dev | 📱 Android App dev</p>
-<p>🤖 Excited to dive into AI and ML</p>
 <p>🚀 On a mission to create something cool, useful and fun</p>
 
 <h2 align="center">Have a nice day!✌🏻 </h2>
