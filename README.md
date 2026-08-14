@@ -1,12 +1,18 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906)" width="30" /> Hey there! </h1>
+<h1 align="left">Hi, I'm Marina <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906)" width="30" /></h1>
+<h3 align="left">👾 On the path to Data Science / ML</h3>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1571766665/6754/anime.gif?1571766665" width="30" /> Exploring the world of tech one line of code at a time 🖥️
+- 📚 Currently building the foundations
+- 🔭 First hands-on project: a customer data mart and ad hoc analysis for a marketplace (SQL)
 
-<p>🎨 Passionate Frontend dev | 📱 Android App dev</p>
-<p>🚀 On a mission to create something cool, useful and fun</p>
+---
 
-<h2 align="center">Have a nice day!✌🏻 </h2>
+### 🛠 Stack
 
-<div align="center">
-  <img  src="https://i.pinimg.com/originals/6a/ee/ea/6aeeea24e8fd4023a349e354eefa33ed.gif" width="500" />
-</div>
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
+</p>
