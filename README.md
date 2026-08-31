@@ -8,8 +8,6 @@
 
 ---
 
-### 🛠 Stack
-
 ### 🛠 Skills
 
 **Languages & Databases**
