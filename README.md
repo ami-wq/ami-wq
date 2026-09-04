@@ -27,7 +27,7 @@
 **Development & Tooling**
 
 <p align="left">
-  <a href="https://pydantic.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pydantic.png" width="40" alt="Pydantic" /></a>
+  <a href="https://pydantic.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pydantic.png" width="48" height="48" alt="Pydantic" /></a>
 </p>
 
 ### 📌 Featured Project
