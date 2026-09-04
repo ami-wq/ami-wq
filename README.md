@@ -24,6 +24,12 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="40" alt="Pandas" /></a>
 </p>
 
+**Development & Tooling**
+
+<p align="left">
+  <a href="https://pydantic.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pydantic.png" width="40" alt="Pydantic" /></a>
+</p>
+
 ### 📌 Featured Project
 
 **Customer Data Mart & Ad Hoc Analysis for an E-Commerce Marketplace**
