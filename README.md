@@ -20,9 +20,9 @@
 **Data Analysis**
 
 <p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="48" alt="NumPy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="48" alt="Pandas" /></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="48" alt="Jupyter Notebook" /></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="NumPy.svg" width="48" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="Pandas.svg" width="48" alt="Pandas" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="jupyter-svgrepo-com.svg" width="48" alt="Jupyter Notebook" /></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="Matplotlib.svg" width="48" alt="Matplotlib" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="seaborn.svg" width="48" alt="Seaborn" /></a>
 </p>
