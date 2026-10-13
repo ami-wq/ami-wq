@@ -37,6 +37,5 @@ Data Cleaning · Exploratory Data Analysis (EDA)
 
 ### 📌 Featured Project
 
-**Customer Data Mart & Ad Hoc Analysis for an E-Commerce Marketplace**
-
-PostgreSQL project focused on customer segmentation, regional analysis, cohort analysis and customer-level feature engineering.
+* **[E-Commerce Customer Data Mart & Analytics](https://github.com/ami-wq/ecommerce-data-analysis)** | `SQL (PostgreSQL)`
+  *Built a centralized user-feature data mart for a marketplace analyzing 99k+ orders. Conducted cohort and regional analysis, uncovering counterintuitive insights: one-time buyers drive a higher Average Order Value (AOV) than highly active customers.*
